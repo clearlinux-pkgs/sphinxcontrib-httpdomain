@@ -4,7 +4,7 @@
 #
 Name     : sphinxcontrib-httpdomain
 Version  : 1.4.0
-Release  : 11
+Release  : 12
 URL      : https://pypi.python.org/packages/source/s/sphinxcontrib-httpdomain/sphinxcontrib-httpdomain-1.4.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/s/sphinxcontrib-httpdomain/sphinxcontrib-httpdomain-1.4.0.tar.gz
 Summary  : Sphinx domain for HTTP APIs

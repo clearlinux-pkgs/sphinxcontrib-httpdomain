@@ -4,7 +4,7 @@
 #
 Name     : sphinxcontrib-httpdomain
 Version  : 1.5.0
-Release  : 14
+Release  : 15
 URL      : http://pypi.debian.net/sphinxcontrib-httpdomain/sphinxcontrib-httpdomain-1.5.0.tar.gz
 Source0  : http://pypi.debian.net/sphinxcontrib-httpdomain/sphinxcontrib-httpdomain-1.5.0.tar.gz
 Summary  : Sphinx domain for HTTP APIs

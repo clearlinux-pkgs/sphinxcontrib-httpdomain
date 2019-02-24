@@ -4,7 +4,7 @@
 #
 Name     : sphinxcontrib-httpdomain
 Version  : 1.7.0
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/b4/8d/8dbb8b6745d7a59084cf1b28837b32c9717c1b4a97333d5b25e25fa9813b/sphinxcontrib-httpdomain-1.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b4/8d/8dbb8b6745d7a59084cf1b28837b32c9717c1b4a97333d5b25e25fa9813b/sphinxcontrib-httpdomain-1.7.0.tar.gz
 Summary  : Sphinx domain for documenting HTTP APIs
@@ -18,7 +18,11 @@ Requires: six
 BuildRequires : buildreq-distutils3
 
 %description
+``sphinxcontrib.httpdomain``
 ============================
+.. image:: https://badge.fury.io/py/sphinxcontrib-httpdomain.svg
+:target: https://pypi.org/project/sphinxcontrib-httpdomain/
+:alt: Latest PyPI version
 
 %package license
 Summary: license components for the sphinxcontrib-httpdomain package.
@@ -54,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1545509206
+export SOURCE_DATE_EPOCH=1551037893
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
